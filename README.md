@@ -15,4 +15,4 @@
 
 <h2>🤳Connect with me:</h2>
 
-[📧 <a>https://mail.google.com/mail/?tab=rm&ogbl</a>][email]
+  - 📧 [email] (<a>https://mail.google.com/mail/?tab=rm&ogbl</a>)
