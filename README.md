@@ -8,8 +8,8 @@
   - [osTicket: Ticket Lifecycle Examples](https://github.com/muazkal/ticket-lifecycle)
 
 - <b>Active Directory</b>
-  -
-  -
+  -u
+  
   
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/muazkal/configure-ad)
