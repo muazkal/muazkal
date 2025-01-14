@@ -10,8 +10,8 @@
   - [Active Directory: Deploying Active Directory in Azure](https://github.com/muazkal/AD_Deploying_Active_Directory)
   - [Active Directory: Creating Users, Group Policy, and Managing Accounts in Azure](https://github.com/muazkal/AD_Creating_Users_Group_Policies_And_Managing_Accounts)
 - <b>osTicket (Help Desk Ticketing System)</b>
-  -  [osTicket: Prerequisites and Installation](https://github.com/muazkal/OsTicket_Installation)
-  -  [osTicket: Post Installation Configuration](https://github.com/muazkal/OsTicket_Configuration)
+  -  [osTicket: Prerequisites and Installation](https://github.com/muazkal/osticket-prereqs)
+  -  [osTicket: Post Installation Configuration](https://github.com/muazkal/post-install-config)
   -  [osTicket: Creating and Working Tickets](https://github.com/muazkal/OsTicket_Creating_And_Working_Tickets)
 
 <h2>🤳Connect with me:</h2>
