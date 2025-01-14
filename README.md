@@ -4,7 +4,6 @@
 
 - <b>Microsoft Azure</b>
   -  [Monitoring Network Traffic with Azure VMs](https://github.com/muazkal/Network-Monitoring)
-  -  [Setup and Use a VPN in Azure](https://github.com/muazkal/Azure_VPN_Setup)
 - <b>Active Directory</b>
   - [Active Directory: Preparing Infrastructure in Azure](https://github.com/muazkal/AD_Preparing_Active_Directory_In_Azure)
   - [Active Directory: Deploying Active Directory in Azure](https://github.com/muazkal/AD_Deploying_Active_Directory)
@@ -16,4 +15,4 @@
 
 <h2>🤳Connect with me:</h2>
 
-  - 📧 [email] (<a>https://mail.google.com/mail/?tab=rm&ogbl</a>)
+  - 📧 <b>Email</b> <a>https://mail.google.com/mail/?tab=rm&ogbl</a>
