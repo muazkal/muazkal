@@ -15,4 +15,4 @@
 
 <h2>🤳Connect with me:</h2>
 
-  - 📧 <b>Email</b> <a>https://mail.google.com/mail/?tab=rm&ogbl</a>
+  - 📧 <b>Email</b> <a>muaz.kalil05@gmail.com</a>
