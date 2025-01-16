@@ -8,7 +8,7 @@
   - [Active Directory: Preparing Infrastructure in Azure](https://github.com/muazkal/ad-preparing-active-directory-in-azure)
  
 <h2>💻 Older Projects</h2>
-  - alphakanu.com
+  - <a>href="alphakanu.com"</a>
 
 <h2>🤳Connect with me:</h2>
 
