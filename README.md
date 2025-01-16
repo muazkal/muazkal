@@ -9,7 +9,8 @@
   - [Deploying Active Directory in Azure](https://github.com/muazkal/AD-Deploying-Active-Directory)
  
 <h2>💻 Older Projects</h2>
-  - [Youtuber Landing Page](https://alphakanu.com)
+<b>Youtuber Landing Page</b>
+  - https://alphakanu.com
 
 <h2>🤳Connect with me:</h2>
 
