@@ -5,7 +5,7 @@
 - <b>Microsoft Azure</b>
   -  [Monitoring Network Traffic with Azure VMs](https://github.com/muazkal/Network-Monitoring)
 - <b>Active Directory</b>
-  - [Active Directory: Preparing Infrastructure in Azure](https://github.com/muazkal/AD_Preparing_Active_Directory_In_Azure)
+  - [Active Directory: Preparing Infrastructure in Azure](https://github.com/muazkal/ad-preparing-active-directory-in-azure)
   - [Active Directory: Deploying Active Directory in Azure](https://github.com/muazkal/AD_Deploying_Active_Directory)
   - [Active Directory: Creating Users, Group Policy, and Managing Accounts in Azure](https://github.com/muazkal/AD_Creating_Users_Group_Policies_And_Managing_Accounts)
 - <b>osTicket (Help Desk Ticketing System)</b>
