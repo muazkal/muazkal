@@ -5,11 +5,11 @@
 - <b>Microsoft Azure</b>
   -  [Monitoring Network Traffic with Azure VMs](https://github.com/muazkal/Network-Monitoring)
 - <b>Active Directory</b>
-  - [Active Directory: Preparing Infrastructure in Azure](https://github.com/muazkal/ad-preparing-active-directory-in-azure)
+  - [Preparing Infrastructure in Azure](https://github.com/muazkal/ad-preparing-active-directory-in-azure)
+  - [Deploying Active Directory in Azure](https://github.com/muazkal/AD-Deploying-Active-Directory)
  
 <h2>💻 Older Projects</h2>
-  <b>Youtuber Landing Page</b>
-  - https://alphakanu.com
+  - [Youtuber Landing Page](https://alphakanu.com)
 
 <h2>🤳Connect with me:</h2>
 
