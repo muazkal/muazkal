@@ -1,1 +1,1 @@
-<h1>Hi, I'm Muaz ☺</h1>
+<h1>Hi, I'm Muaz</h1>
