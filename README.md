@@ -11,7 +11,7 @@
     DebutIT
   </a>
 </h3>
-<p style="font-weight: 700;">
+<p>
   DebugIT is a full-stack web application that simulates realistic IT troubleshooting scenarios through a browser-based terminal.
 </p>
 
