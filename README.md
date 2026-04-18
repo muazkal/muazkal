@@ -8,7 +8,7 @@
 
 <h3>
   <a href="https://github.com/muazkal/Handshake-AI-Showcase">
-    DebutIT
+    TroubleshootIT
   </a>
 </h3>
 <p>
